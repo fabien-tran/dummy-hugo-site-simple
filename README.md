@@ -4,7 +4,7 @@
   <a href="https://github.com/fabien-tran/dummy-hugo-site-simple/blob/main/README.md" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="asasas" target="_blank">
+  <a href="https://github.com/fabien-tran/dummy-hugo-site-simple/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT Licence" src="https://img.shields.io/badge/License-MIT Licence-yellow.svg" />
   </a>
 </p>
