@@ -15,10 +15,18 @@
 
 ### ✨ [Demo](https://fabien-tran.github.io/dummy-hugo-site-simple/)
 
+## Prerequisites
+
+Go
+```sh
+apt install golang-go
+```
+
 ## Install
 
+Clone the repository:
 ```sh
-asasasasa
+git clone https://github.com/fabien-tran/dummy-hugo-site-simple.git
 ```
 
 ## Usage
