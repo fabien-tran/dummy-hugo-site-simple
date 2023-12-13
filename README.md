@@ -15,6 +15,7 @@
 
 ### ✨ [Demo](https://fabien-tran.github.io/dummy-hugo-site-simple/)
 
+
 ## Prerequisites
 
 Hugo
