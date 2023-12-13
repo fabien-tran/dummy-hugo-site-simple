@@ -17,9 +17,19 @@
 
 ## Prerequisites
 
+Hugo
+```sh
+apt install hugo
+```
+
 Go
 ```sh
 apt install golang-go
+```
+
+Git LFS
+```
+git lfs install
 ```
 
 ## Install
@@ -31,14 +41,16 @@ git clone https://github.com/fabien-tran/dummy-hugo-site-simple.git
 
 ## Usage
 
-```sh
-asasasasas
+Import a theme as a module by editing *config/_default/module.yaml*
+```yml
+imports:
+   path: github.com/hugoinaction/Eclectic
 ```
 
 ## Run tests
 
 ```sh
-assaasasas
+hugo server
 ```
 
 ## Author
@@ -47,7 +59,7 @@ assaasasas
 
 * Website: https://fabien-tran.github.io
 * Github: [@fabien-tran](https://github.com/fabien-tran)
-* LinkedIn: [@Fabien Tran](https://linkedin.com/in/Fabien Tran)
+* LinkedIn: [@Fabien Tran](https://linkedin.com/in/Fabien_Tran)
 
 ## 🤝 Contributing
 
@@ -64,7 +76,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2023 [Fabien Tran](https://github.com/fabien-tran).<br />
-This project is [MIT Licence](asasas) licensed.
+This project is [MIT Licence](LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
