@@ -42,11 +42,18 @@ git clone https://github.com/fabien-tran/dummy-hugo-site-simple.git
 
 ## Usage
 
-Import a theme as a module by editing *config/_default/module.yaml*
-```yml
-imports:
-   path: github.com/hugoinaction/Eclectic
+Add your theme in config/_default/modules.yaml to import it as a module:
+```yaml
+imports: 
+  - path: github.com/<user>/<repo> 
 ```
+
+Exemple:
+```yaml
+imports: 
+  - path: github.com/hugoinaction/Eclectic
+```
+
 
 ## Run tests
 
@@ -60,19 +67,16 @@ hugo server
 
 * Website: https://fabien-tran.github.io
 * Github: [@fabien-tran](https://github.com/fabien-tran)
-* LinkedIn: [@Fabien Tran](https://linkedin.com/in/Fabien_Tran)
+* LinkedIn: [@Fabien Tran](https://www.linkedin.com/in/fabien-tran-van-hung/)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](asassaas). You can also take a look at the [contributing guide](asssaas).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]([asassaas](https://github.com/fabien-tran/dummy-hugo-site-simple/issues)).
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-<a href="https://www.patreon.com/ft">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
 
 ## 📝 License
 
