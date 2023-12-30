@@ -9,7 +9,11 @@
   </a>
 </p>
 
-> Dummy site used to test your hugo modules and themes.
+> Dummy site used to test your hugo modules and themes. 
+> 
+> It contains a home page, a section named "posts" with a few bundle pages and a short set of tags.
+>
+> Feel free to use it to try out your modules and themes.
 
 ### 🏠 [Homepage](https://github.com/fabien-tran)
 
@@ -58,7 +62,7 @@ imports:
 ## Run tests
 
 ```sh
-hugo server
+hugo server -D
 ```
 
 ## Author
@@ -68,10 +72,6 @@ hugo server
 * Website: https://fabien-tran.github.io
 * Github: [@fabien-tran](https://github.com/fabien-tran)
 * LinkedIn: [@Fabien Tran](https://www.linkedin.com/in/fabien-tran-van-hung/)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page]([asassaas](https://github.com/fabien-tran/dummy-hugo-site-simple/issues)).
 
 ## Show your support
 
